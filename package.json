@@ -1,7 +1,7 @@
 {
   "name": "todolist-roy",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://roybelmiro.github.io/todolist-roy",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
